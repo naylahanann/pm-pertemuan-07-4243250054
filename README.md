@@ -1,4 +1,3 @@
-<img width="155" height="344" alt="Screenshot 2026-11-15 202423" src="https://github.com/user-attachments/assets/a5306e81-8ab4-49d4-ad67-b7531e612cdc" /># planner_tugas
 (a) Identitas (nama, NIM, kelas)
   - Nama: Nayla Luthfiah Hanan
   - NIM: 4243250054
